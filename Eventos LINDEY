@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Eventos LINDEY</title>
+
+    <meta name="description" content="Esta es la pagina web de mi Negocio" />
+    <meta name="author" content="Eventos LinDey" />
+    <meta/ name="keywords" content="Eventos, LinDey, Caracas, Gastronomia,
+    Pasapalos, Fiestas, Fiestas Infantiles, Graduaciones, Matrimonios, Fiestas
+    Empreseariales, Eventos Deportivos">
+  </head>
+  <body>
+    <header>
+      <h1>Eventos LINDEY</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li>Inicio</li>
+        <li>Contacto</li>
+        <li>Quienes Somos</li>
+      </ul>
+    </nav>
+
+    <section>
+      <article>
+        <hgroup>
+          <h1>Agencia De Eventos en Caracas</h1>
+        </hgroup>
+        <time datetime="24-05-2025">Publicado 24-05-2025</time>
+        <p>
+          Somos Eventos LinDey, tu opcion ideal para transformar cada ocasión en
+          un recuerdo inolvidable. Nos especializamos en la Organización y
+          producción de eventos en Caracas, Venezuela; cuidando cada detalle
+          para superar tus expectativas.
+        </p>
+        <footer>
+          <p>Comentarios(0)</p>
+        </footer>
+        <address>
+          <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"
+            >Visita Nuestras Redes Sociales</a
+          >
+        </address>
+      </article>
+
+      <article>
+        <hgroup>
+          <h1>Que Ofrecemos</h1>
+        </hgroup>
+        <time datetime="24-05-2025">Publicado 24-05-2025</time>
+        <p>
+          Eventos LinDey es la agencia integral en Caracas que te ofrece
+          soluciones completas para todo tipo de celebraciones. Organizamos
+          bodas, fiestas de Cumpleaños, eventos corporativos, y mucho más.
+        </p>
+        <footer>Comentarios(10)</footer>
+      </article>
+    </section>
+    <aside>
+      <blockquote>
+        <ul>
+          <li>Bodas</li>
+          <li>Eventos corporativos</li>
+          <li>Fiestas Infantiles</li>
+          <li>Catering y Pasapalos</li>
+          <li>Decoración y Temáticas</li>
+          <li>Consejos Para Eventos</li>
+        </ul>
+      </blockquote>
+      <blockquote>
+        <ol>
+          <li>Formulario de Contacto Rápido</li>
+          <li>Galeria</li>
+          <img src="images/pasaplos.jpg"
+        </ol>
+      </blockquote>
+    </aside>
+    <footer>Derechos Reservados 2025</footer>
+  </body>
+</html>
